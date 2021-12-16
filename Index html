@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+<title>Test</title>
+</head>
+
+<body>
+<P>My Information :</P>
+<li>Huynh Tran Anh Khoa</li>
+<li>Khoa Kelbin</li>
+<li>Age : 19</li>
+<li>University : Greenwich FPT</li>
+<li>Hometown : Go Vap District, Ho Chi Minh City, Vietnam</li>
+
+<P>My Hobby</P>
+<li>Hypercar : Bugatti</li>
+<li>Supercar : Lamborghini</li>
+<li>Super Luxury Car : Rolls Royce</li>
+<li>Luxury Car : Mercedes Benz</li>
+<li>Sport : Football, Basketball, Badminton</li>
+<li>Hip hop and Music</li>
+<li>Good Food and cooking</li>
+<li>Technology and Code</li>
+
+</body>
+</html>
